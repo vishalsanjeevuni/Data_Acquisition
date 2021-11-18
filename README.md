@@ -1,4 +1,5 @@
-![chocolate scraping](https://user-images.githubusercontent.com/26355917/142493429-a74a7c7a-2b2c-41cb-a8fd-dc78dc1a791c.gif)
+
+![chocolate scraping 2](https://user-images.githubusercontent.com/26355917/142500855-ee091db5-8793-4b8b-9134-c1319e56fc35.png)
 
 
 # Chocolate Scraping with Beautiful Soup
